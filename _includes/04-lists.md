@@ -1,1 +1,7 @@
-Replace this with a list of your favorite things.
+- Harry Potter
+  * Hogward
+  * The Prisoner of Askaban
+  * Der Halbbutprinz
+- DaVinci Code
+- Sakrileg
+- Outlander
